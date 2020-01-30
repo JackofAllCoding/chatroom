@@ -1,5 +1,5 @@
-THE FILE YOU NEED TO RUN IS onlineChat.py!
+THE FILE YOU NEED TO RUN IS TxtTester.py!
 
 
-You will need python to run this program!
+If you need to download python it's right here:
 DOWNLOAD PYTHON HERE: https://www.python.org/downloads/
