@@ -1,4 +1,4 @@
-THE FILE YOU NEED TO RUN IS TxtTester.py!
+THE FILE YOU NEED TO RUN IS chat.py!
 
 
 If you need to download python it's right here:
