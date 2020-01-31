@@ -1,4 +1,4 @@
-THE FILE YOU NEED TO RUN IS chat.py!
+THE FILE YOU NEED TO RUN IS chatroom.py!
 
 
 If you need to download python it's right here:
